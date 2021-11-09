@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Practica_Curso_Alumnos_Profs___Clase_15</RootNamespace>
+  </PropertyGroup>
+
+</Project>
